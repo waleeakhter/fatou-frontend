@@ -1,0 +1,42 @@
+{
+  "name": "fatou-frontend",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@kyvg/vue3-notification": "^2.3.4",
+    "@vueform/multiselect": "^2.2.1",
+    "@vuelidate/core": "^2.0.0-alpha.32",
+    "@vuelidate/validators": "^2.0.0-alpha.25",
+    "animate.css": "^4.1.1",
+    "axios": "^0.24.0",
+    "countrycitystatejson": "^20.8.14",
+    "crypto-js": "^4.1.1",
+    "daisyui": "^1.25.4",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "slugify": "^1.6.5",
+    "socket.io-client": "^4.5.0",
+    "sweetalert2": "^11.4.9",
+    "v-owl-carousel": "^1.0.8",
+    "vue": "^3.2.16",
+    "vue-advanced-cropper": "^2.8.1",
+    "vue-multiselect": "^2.1.6",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-router": "^4.0.14",
+    "vue3-discordpicker": "^1.1.0",
+    "vue3-tel-input": "^1.0.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.1",
+    "vite": "^2.6.4"
+  }
+}

@@ -1,0 +1,18 @@
+<svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Iconly/Curved/Message">
+<g id="Message">
+<path id="Stroke 1" d="M38.745 19.917C38.745 19.917 31.6562 28.4249 26.4713 28.4249C21.2886 28.4249 14.1201 19.917 14.1201 19.917" stroke="url(#paint0_linear_153_8206)" stroke-width="3.3125" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Stroke 3" fill-rule="evenodd" clip-rule="evenodd" d="M5.41504 26.4313C5.41504 11.3305 10.673 6.29834 26.4468 6.29834C42.2206 6.29834 47.4785 11.3305 47.4785 26.4313C47.4785 41.5298 42.2206 46.5642 26.4468 46.5642C10.673 46.5642 5.41504 41.5298 5.41504 26.4313Z" stroke="url(#paint1_linear_153_8206)" stroke-width="3.3125" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_153_8206" x1="26.4325" y1="19.917" x2="26.4325" y2="28.4249" gradientUnits="userSpaceOnUse">
+<stop stop-color="#04A9CD"/>
+<stop offset="1" stop-color="#4787F3"/>
+</linearGradient>
+<linearGradient id="paint1_linear_153_8206" x1="26.4468" y1="6.29834" x2="26.4468" y2="46.5642" gradientUnits="userSpaceOnUse">
+<stop stop-color="#04A9CD"/>
+<stop offset="1" stop-color="#4787F3"/>
+</linearGradient>
+</defs>
+</svg>

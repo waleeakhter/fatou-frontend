@@ -1,0 +1,14 @@
+default:
+  image: node:16.3.0-alpine3.13
+
+before_script:
+#     - npm install
+  - npm install -g netlify-cli --unsafe-perm=true
+#     - npm run build
+
+deploy-job:
+  stage: deploy
+  only:
+      - dev
+  script:
+    - netlify deploy --dir ./dist --prod --site $NETLIFY_SITE_ID --auth $NETLIFY_AUTH_TOKEN
